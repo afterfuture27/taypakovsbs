@@ -1,0 +1,36 @@
+1478616542a:1:{s:11:"contact.htm";a:6:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:907:"==
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h2 class="section-heading">Мы с вами на связи!</h2>
+            <hr class="primary">
+            <p>Готовы изменить свой стиль? Оставляйте вашу заявку и мы обязательно к вам вернемся!</p>
+        </div>
+        <div class="col-lg-4 col-lg-offset-2 text-center">
+            <i class="fa fa-phone fa-3x wow bounceIn"></i>
+            <p><a href="mailto:your-email@your-domain.com">87712274565</a></p>
+            <p></p>
+        </div>
+        <div class="col-lg-4 text-center">
+            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            <p><a href="mailto:your-email@your-domain.com">be.creative@example.com</a></p>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1478615941;s:6:"markup";s:904:"<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h2 class="section-heading">Мы с вами на связи!</h2>
+            <hr class="primary">
+            <p>Готовы изменить свой стиль? Оставляйте вашу заявку и мы обязательно к вам вернемся!</p>
+        </div>
+        <div class="col-lg-4 col-lg-offset-2 text-center">
+            <i class="fa fa-phone fa-3x wow bounceIn"></i>
+            <p><a href="mailto:your-email@your-domain.com">87712274565</a></p>
+            <p></p>
+        </div>
+        <div class="col-lg-4 text-center">
+            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+            <p><a href="mailto:your-email@your-domain.com">be.creative@example.com</a></p>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

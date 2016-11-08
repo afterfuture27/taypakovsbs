@@ -1,0 +1,16 @@
+fields:
+    name:
+        label: 'Имя клиента'
+        oc.commentPosition: ''
+        span: left
+        type: text
+    service:
+        label: Услуга
+        oc.commentPosition: ''
+        span: left
+        type: text
+    time:
+        label: Время
+        oc.commentPosition: ''
+        span: left
+        type: text

@@ -1,0 +1,11 @@
+plugin:
+    name: 'dair.orders::lang.plugin.name'
+    description: 'dair.orders::lang.plugin.description'
+    author: Dair
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Заказы
+        url: dair/orders/order
+        icon: icon-bars

@@ -1,0 +1,12 @@
+columns:
+    name:
+        label: Имя
+        type: text
+        searchable: true
+        sortable: true
+    service:
+        label: Услуга
+        type: text
+    time:
+        label: Время
+        type: text

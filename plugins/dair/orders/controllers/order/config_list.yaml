@@ -1,0 +1,11 @@
+list: $/dair/orders/models/order/columns.yaml
+modelClass: Dair\Orders\Models\Order
+title: Order
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'dair/orders/order/update/:id'

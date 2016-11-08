@@ -1,0 +1,10 @@
+name: Order
+form: $/dair/orders/models/order/fields.yaml
+modelClass: Dair\Orders\Models\Order
+defaultRedirect: dair/orders/order
+create:
+    redirect: 'dair/orders/order/update/:id'
+    redirectClose: dair/orders/order
+update:
+    redirect: dair/orders/order
+    redirectClose: dair/orders/order
